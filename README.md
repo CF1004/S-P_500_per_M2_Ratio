@@ -58,5 +58,5 @@ This project demonstrates:
 
 ---
 
-**Data Source:** U.S. Federal Reserve (FRED) website & Yahoo Finance — S&P500 Index and M2 Money Supply  
+**Data Sources:** U.S. Federal Reserve (FRED) website & Yahoo Finance — S&P500 Index and M2 Money Supply  
 
