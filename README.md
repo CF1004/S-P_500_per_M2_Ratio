@@ -45,7 +45,7 @@ Built entirely in **Tableau Public**, featuring:
 
 ## 💾 TWBX (Tableau Workbook File)
 
-You can download the file and open it in Tableau Public. There is not much to play with, it's just a pretty clear picture of what is shown.
+You can download the file and open it in Tableau Public. There is not much to play with, it's just a pretty clear picture of stock valuations.
 
 ---
 
